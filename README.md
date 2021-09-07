@@ -1,2 +1,2 @@
 # SQL
-Contains my practice data analysis projects in SQL
+Contains my data analysis projects done in SQL
